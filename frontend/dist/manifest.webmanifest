@@ -1,0 +1,17 @@
+{
+  "name": "Job Tracker",
+  "short_name": "JobTracker",
+  "description": "Job Tracking, analytics, automation and collaboration platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1220",
+  "theme_color": "#0f1220",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
